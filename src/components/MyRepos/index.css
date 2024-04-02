@@ -1,0 +1,14 @@
+.repos-table{
+    background-color:#301434;
+}
+
+.repos-table-row{
+    display:table-row;
+    height:10px;
+}
+
+.repos-table-row td{
+    border:2px solid #301434;
+    background-color:#621982;
+    max-height:10px;
+}
